@@ -1,0 +1,25 @@
+
+      .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+      }
+      .pfp {
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+      }
+      .container .info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        margin-left: 50px;
+      }
+    .red{
+      color: red;
+    }
+    .blue{
+      color: blue;
+    }
